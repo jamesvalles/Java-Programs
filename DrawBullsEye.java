@@ -1,6 +1,6 @@
 /*
  * Author: James Valles 
- * DrawBullsEye (Drawing Pictures - 10 Points) 
+ * Program draws a basic Bulls Eye
  * CSC 402 
  */
 
