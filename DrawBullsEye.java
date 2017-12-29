@@ -1,7 +1,6 @@
 /*
  * Author: James Valles 
  * Program draws a basic Bulls Eye
- * CSC 402 
  */
 
 package group1;
