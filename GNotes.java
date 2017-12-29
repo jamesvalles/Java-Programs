@@ -1,7 +1,6 @@
 /*
  * Author: James Valles 
- * GNotes - Making Music 
- * CSC 402
+ * Method plays tone when frequency and duration provided
  */
 
 package group1;
