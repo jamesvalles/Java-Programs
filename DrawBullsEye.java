@@ -1,7 +1,6 @@
 /*
  * Author: James Valles 
- * DrawBullsEye (Drawing Pictures - 10 Points) 
- * CSC 402 
+ * Program draws a basic Bulls Eye
  */
 
 package group1;

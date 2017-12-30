@@ -1,6 +1,6 @@
 /*
  * Author: James Valles 
- * FindGCD - Calculating the GCD
+ * This program calulates the greatest common divisor using Euclid's algorithm
  */
 
 package group1;
