@@ -1,6 +1,5 @@
 /*
  * Author: James Valles 
- * CSC 402
  * WordStatistics - Calculates average and median lengths of words from text file 
  */
 
