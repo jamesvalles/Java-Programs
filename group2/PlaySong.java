@@ -1,7 +1,6 @@
 /*
  * Author: James Valles 
- * CSC 402
- * PlaySong - Plays a series of frequencies from a file
+ * PlaySong - Plays a series of tones from a file of frequencies 
  */
 
 
