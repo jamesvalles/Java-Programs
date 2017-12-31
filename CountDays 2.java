@@ -1,6 +1,5 @@
 /*
  * Author: James Valles 
- * CSC 402
  * Count Days - Counts days between two dates 
  */
 
