@@ -1,6 +1,5 @@
 /*
  * Author: James Valles 
- * CSC 402
  * Balanced Punctuation - Check to see if punctuation is balanced
  */
 
