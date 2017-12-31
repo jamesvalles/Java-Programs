@@ -1,6 +1,5 @@
 ///*
 // * Author: James Valles 
-// * CSC 402
 // * Distribution - Calculates word mean, standard deviation, and normal distribution percentages from txt file
 // */
 //
